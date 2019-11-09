@@ -1,0 +1,9 @@
+[Adblock Plus 2.0]
+! Checksum: HsIXsYxN50jD6bS7ZXI8RA
+! Title: Instagram
+! Version: 20191108
+! Last modified: November 08 2019
+! Expires: 3 days
+!--------------------------------------------------!
+instagram.com##.yiMZG.TxciK.D8xaz.O1flK.i0EQd._4EzTm.YBx95.rBNOH.Igw0E
+instagram.com##._9AhH0
