@@ -1,0 +1,18 @@
+[Adblock Plus 2.0]
+! Checksum: 1DDRygfIP12W8txGWzavIQ
+! Title: YouTube
+! Version: 20200704
+! Last modified: July 04 2020
+! Expires: 3 days
+!--------------------------------------------------!
+||youtube.com/annotations_invideo?$object-subrequest
+youtube.com##.annotation
+youtube.com##.video-annotations
+youtube.com##.iv-drawer
+youtube.com##.iv-drawer-manager
+youtube.com##.iv-promo
+youtube.com##.iv-promo-video
+youtube.com##.ytp-cards-button
+youtube.com##.ytp-cards-teaser
+youtube.com##.ytp-ce-element
+youtube.com##.ytd-popup-container

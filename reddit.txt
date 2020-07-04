@@ -1,0 +1,13 @@
+[Adblock Plus 2.0]
+! Checksum: sVxJL7slFUnKh5s0xYSTeg
+! Title: Reddit
+! Version: 20200704
+! Last modified: July 04 2020
+! Expires: 3 days
+!--------------------------------------------------!
+reddit.com###ecb
+reddit.com##.LegacyAnnouncement
+reddit.com##.XPromoPopup
+reddit.com##.XPromoInFeed
+reddit.com##.xPromoAppStoreFooter
+reddit.com##body.scroll-disabled:style(overflow: visible!important; position: static!important;)

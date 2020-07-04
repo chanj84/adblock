@@ -1,0 +1,10 @@
+[Adblock Plus 2.0]
+! Checksum: 4eCzNYc2AJmeNLcJymjcSg
+! Title: YouTube (Comments)
+! Version: 20200704
+! Last modified: July 04 2020
+! Expires: 3 days
+!--------------------------------------------------!
+||youtube.com/live_chat_fragments_ajax?$xmlhttprequest
+||youtube.com/comment_service_ajax?$domain=youtube.com
+youtube.com###comments
