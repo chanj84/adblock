@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: d85n1sly/3NihO/WdDAi9A
+! Checksum: l0BC4mTUmvo3Gn1188Faxg
 ! Title: twitch.tv
-! Version: 20200704
-! Last modified: July 04 2020
+! Version: 20210301
+! Last modified: March 01 2021
 ! Expires: 3 days
 !--------------------------------------------------!
 ||supervisor.ext-twitch.tv/supervisor/v1/index.html

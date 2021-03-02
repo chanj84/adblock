@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: sVxJL7slFUnKh5s0xYSTeg
+! Checksum: GXmZ/08lG55ZiJ1QBE0OiA
 ! Title: Reddit
-! Version: 20200704
-! Last modified: July 04 2020
+! Version: 20210301
+! Last modified: March 01 2021
 ! Expires: 3 days
 !--------------------------------------------------!
 reddit.com###ecb
