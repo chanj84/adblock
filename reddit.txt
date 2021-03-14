@@ -1,11 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: GXmZ/08lG55ZiJ1QBE0OiA
+! Checksum: IeXFGv9qu5+9cpuIPuePqg
 ! Title: Reddit
-! Version: 20210301
-! Last modified: March 01 2021
+! Version: 20210313
+! Last modified: March 13 2021
 ! Expires: 3 days
 !--------------------------------------------------!
 reddit.com###ecb
+reddit.com###redesign-beta-optin-btn
 reddit.com##.LegacyAnnouncement
 reddit.com##.XPromoPopup
 reddit.com##.XPromoInFeed
