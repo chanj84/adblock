@@ -1,14 +1,17 @@
 [Adblock Plus 2.0]
-! Checksum: cygkyIj7AutXw0Tb990wPg
+! Checksum: l5470r+v5hwXK2gmwmXmTw
 ! Title: twitch.tv
-! Version: 20210313
-! Last modified: March 13 2021
+! Version: 20210418
+! Last modified: April 18 2021
 ! Expires: 3 days
 !--------------------------------------------------!
 ||supervisor.ext-twitch.tv/supervisor/v1/index.html
 ||custos.twitchcdn.net/v1.js$script
+twitch.tv###twilight-sticky-header-root
+twitch.tv###twilight-sticky-footer-root
 twitch.tv##.player-ad-overlay.player-overlay
 twitch.tv##.js-player-ad-overlay.player-ad-overlay
 twitch.tv##.extension-container
 twitch.tv##.extension-taskbar
 twitch.tv##.extensions-dock-card
+twitch.tv##.side-info-container
