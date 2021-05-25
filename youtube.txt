@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: f/pSjHV430PQ+dYRA9hV3g
+! Checksum: jJIY4wQ+uXpjUyX3Qg0sUw
 ! Title: YouTube
-! Version: 20210418
-! Last modified: April 18 2021
+! Version: 20210525
+! Last modified: May 25 2021
 ! Expires: 3 days
 !--------------------------------------------------!
 ||youtube.com/annotations_invideo?$object-subrequest
@@ -15,4 +15,5 @@ youtube.com##.iv-promo-video
 youtube.com##.ytp-cards-button
 youtube.com##.ytp-cards-teaser
 youtube.com##.ytp-ce-element
+youtube.com##.ytp-paid-content-overlay
 youtube.com##.ytd-popup-container
