@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 51JkNHkdrqF8L5YBYlgHqw
+! Checksum: WbtV7mPcyWard9947SoZsg
 ! Title: Instagram
-! Version: 20210525
-! Last modified: May 25 2021
+! Version: 20210819
+! Last modified: August 19 2021
 ! Expires: 3 days
 !--------------------------------------------------!
 instagram.com##.yiMZG.TxciK.D8xaz.O1flK.i0EQd._4EzTm.YBx95.rBNOH.Igw0E
