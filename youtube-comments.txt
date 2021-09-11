@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 20MuH5hA7/R0PThrA5MG8Q
+! Checksum: 1dGy4m1sPp6d4pzBFozpNw
 ! Title: YouTube (Comments)
-! Version: 20210819
-! Last modified: August 19 2021
+! Version: 20210911
+! Last modified: September 11 2021
 ! Expires: 3 days
 !--------------------------------------------------!
 ||youtube.com/live_chat_fragments_ajax?$xmlhttprequest

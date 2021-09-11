@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: wbLtDoRGMsZdIl9uVSnj1Q
+! Checksum: DaQS5FS8fw2vWknkoQRqsg
 ! Title: twitch.tv
-! Version: 20210819
-! Last modified: August 19 2021
+! Version: 20210911
+! Last modified: September 11 2021
 ! Expires: 3 days
 !--------------------------------------------------!
 ||supervisor.ext-twitch.tv/supervisor/v1/index.html
@@ -15,3 +15,4 @@ twitch.tv##.extension-container
 twitch.tv##.extension-taskbar
 twitch.tv##.extensions-dock-card
 twitch.tv##.side-info-container
+twitch.tv##.jJIJSp

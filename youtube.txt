@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: cUk3vsoI4haSnFkam/z0Mg
+! Checksum: /otHwVlInXg/EKJ4Bt/JNA
 ! Title: YouTube
-! Version: 20210819
-! Last modified: August 19 2021
+! Version: 20210911
+! Last modified: September 11 2021
 ! Expires: 3 days
 !--------------------------------------------------!
 ||youtube.com/annotations_invideo?$object-subrequest
