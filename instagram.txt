@@ -1,8 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: STgPNSsSC6m+l9AoD2HcqA
 ! Title: Instagram
-! Version: 20220203
-! Last modified: February 03 2022
+! Version: 20220604
+! Last modified: June 04 2022
 ! Expires: 3 days
 !--------------------------------------------------!
 instagram.com##.yiMZG.TxciK.D8xaz.O1flK.i0EQd._4EzTm.YBx95.rBNOH.Igw0E
