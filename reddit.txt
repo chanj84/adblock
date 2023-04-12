@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Reddit
-! Version: 20220604
-! Last modified: June 04 2022
+! Version: 20230412
+! Last modified: April 12 2023
 ! Expires: 3 days
 !--------------------------------------------------!
 reddit.com###ecb

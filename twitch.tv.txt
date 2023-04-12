@@ -1,13 +1,14 @@
 [Adblock Plus 2.0]
 ! Title: twitch.tv
-! Version: 20220604
-! Last modified: June 04 2022
+! Version: 20230412
+! Last modified: April 12 2023
 ! Expires: 3 days
 !--------------------------------------------------!
 ||supervisor.ext-twitch.tv/supervisor/v1/index.html
 ||custos.twitchcdn.net/v1.js$script
 twitch.tv###twilight-sticky-header-root
 twitch.tv###twilight-sticky-footer-root
+twitch.tv##.chat-signup-gate-overlay
 twitch.tv##.player-ad-overlay.player-overlay
 twitch.tv##.js-player-ad-overlay.player-ad-overlay
 twitch.tv##.extension-container
