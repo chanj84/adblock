@@ -1,13 +1,13 @@
 [Adblock Plus 2.0]
 ! Title: Reddit
-! Version: 20230412
-! Last modified: April 12 2023
+! Version: 20250906
+! Last modified: September 06 2025
 ! Expires: 3 days
 !--------------------------------------------------!
+reddit.com##.LegacyAnnouncement
+reddit.com##.xPromoAppStoreFooter
+reddit.com##.XPromoInFeed
+reddit.com##.XPromoPopup
 reddit.com###ecb
 reddit.com###redesign-beta-optin-btn
-reddit.com##.LegacyAnnouncement
-reddit.com##.XPromoPopup
-reddit.com##.XPromoInFeed
-reddit.com##.xPromoAppStoreFooter
 reddit.com##body.scroll-disabled:style(overflow: visible!important; position: static!important;)
