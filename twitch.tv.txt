@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: twitch.tv
-! Version: 20250906
-! Last modified: September 06 2025
+! Version: 20260316
+! Last modified: March 16 2026
 ! Expires: 3 days
 !--------------------------------------------------!
 ||custos.twitchcdn.net/v1.js$script

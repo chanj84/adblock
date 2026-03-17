@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Reddit
-! Version: 20250906
-! Last modified: September 06 2025
+! Version: 20260316
+! Last modified: March 16 2026
 ! Expires: 3 days
 !--------------------------------------------------!
 reddit.com##.LegacyAnnouncement

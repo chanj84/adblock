@@ -1,8 +1,7 @@
 [Adblock Plus 2.0]
-! Title: Instagram
+! Title: Datadog
 ! Version: 20260316
 ! Last modified: March 16 2026
 ! Expires: 3 days
 !--------------------------------------------------!
-instagram.com##._9AhH0
-instagram.com##.yiMZG.TxciK.D8xaz.O1flK.i0EQd._4EzTm.YBx95.rBNOH.Igw0E
+datadoghq.com##.druids_onboarding_billboard

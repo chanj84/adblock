@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: YouTube (Comments)
-! Version: 20250906
-! Last modified: September 06 2025
+! Version: 20260316
+! Last modified: March 16 2026
 ! Expires: 3 days
 !--------------------------------------------------!
 ||youtube.com/comment_service_ajax?$domain=youtube.com
